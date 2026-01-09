@@ -1,0 +1,29 @@
+user:
+  admin: false
+  name: "NonAdminUser"
+  age: 20
+  grade: "intern"
+  skills:
+    - name: "Eng"
+      lvl: 4
+      description: >
+        Some
+        Long
+        Description
+
+    - name: "CMD"
+      lvl: 3
+      description: >
+        Another
+        Long
+        Description
+  location:
+    country: "Russian Federation"
+    city: "Moscow"
+    street: "Moscow street"
+    house: 123
+    flat: 21
+  pets:
+    - name: "Bobik"
+      breed: "Mops"
+      can_meow: no
