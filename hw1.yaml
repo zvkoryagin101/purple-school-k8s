@@ -23,7 +23,7 @@ user:
     street: "Moscow street"
     house: 123
     flat: 21
-  pet:
-    name: "Bobik"
-    breed: "Mops"
-    can_meow: no
+  pets:
+    - name: "Bobik"
+      breed: "Mops"
+      can_meow: no
